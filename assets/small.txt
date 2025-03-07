@@ -1,0 +1,10 @@
+SAVEFILE
+
+FLOOR "assets\floor\floor_dungeon_v2_Floor.png" 128.0 128.0 256 256 0
+FLOOR "assets\floor\floor_dungeon_v2_Floor.png" 384.0 128.0 256 256 0
+FLOOR "assets\floor\floor_dungeon_v2_Floor.png" 384.0 384.0 256 256 0
+FLOOR "assets\floor\floor_dungeon_v2_Floor.png" 128.0 384.0 256 256 0
+WALL "assets\floor\wall.png" 20.0 128.0 40 256 0
+WALL "assets\floor\wall.png" 128.0 20.0 40 256 90
+WALL "assets\floor\wall.png" 492.0 384.0 40 256 180
+WALL "assets\floor\wall.png" 384.0 492.0 40 256 270

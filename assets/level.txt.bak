@@ -1,0 +1,30 @@
+¯
+
+FLOOR "assets\floor\floor_dungeon_v2_Floor.png" 128.5 128.0 256 256 0
+FLOOR "assets\floor\floor_dungeon_v2_Floor.png" 384.5 128.0 256 256 0
+FLOOR "assets\floor\floor_dungeon_v2_Floor.png" 128.5 384.0 256 256 0
+FLOOR "assets\floor\floor_dungeon_v2_Floor.png" 384.5 384.0 256 256 0
+FLOOR "assets\floor\floor_dungeon_v2_Floor.png" 600.5 384.0 256 256 90
+FLOOR "assets\floor\floor_dungeon_v2_Floor.png" 856.5 384.0 256 256 90
+FLOOR "assets\floor\floor_dungeon_v2_Floor.png" 1112.5 384.0 256 256 90
+FLOOR "assets\floor\floor_dungeon_v2_Floor.png" 1368.5 384.0 256 256 90
+FLOOR "assets\floor\floor_dungeon_v2_Floor.png" 1716.5 384.0 256 256 90
+FLOOR "assets\floor\floor_dungeon_v2_Floor.png" 2012.5 384.0 256 256 0
+WALL "assets\floor\wall.png" 20.5 128.0 40 256 0
+WALL "assets\floor\wall.png" 20.5 384.0 40 256 0
+WALL "assets\floor\wall.png" 128.5 20.0 40 256 90
+WALL "assets\floor\wall.png" 384.5 20.0 40 256 90
+WALL "assets\floor\wall.png" 128.5 492.0 40 256 90
+WALL "assets\floor\wall.png" 384.5 492.0 40 256 90
+WALL "assets\floor\wall.png" 492.5 128.0 40 256 0
+WALL "assets\floor\wall.png" 600.5 276.0 40 256 90
+WALL "assets\floor\wall.png" 600.5 492.0 40 256 90
+WALL "assets\floor\wall.png" 856.5 276.0 40 256 90
+WALL "assets\floor\wall.png" 1112.5 276.0 40 256 90
+WALL "assets\floor\wall.png" 1368.5 276.0 40 256 90
+WALL "assets\floor\wall.png" 856.5 492.0 40 256 90
+WALL "assets\floor\wall.png" 1112.5 492.0 40 256 90
+WALL "assets\floor\wall.png" 1368.5 492.0 40 256 90
+WALL "assets\floor\wall.png" 1864.5 192.0 40 256 0
+WALL "assets\floor\wall.png" 1864.5 -64.0 40 256 0
+WALL "assets\floor\wall.png" 1864.5 -320.0 40 256 0

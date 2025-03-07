@@ -1,0 +1,6 @@
+SAVEFILE
+
+WALL "assets\floor\wall.png" 168.0 252.0 40 256 0
+WALL "assets\floor\wall.png" 276.0 144.0 40 256 90
+WALL "assets\floor\wall.png" 384.0 252.0 40 256 180
+WALL "assets\floor\wall.png" 276.0 360.0 40 256 270

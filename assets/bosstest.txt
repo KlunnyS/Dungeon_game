@@ -1,0 +1,7 @@
+SAVEFILE
+
+FLOOR "assets\floor\floor_dungeon_v2_Floor.png" 128.0 128.0 256 256 0
+FLOOR "assets\floor\floor_dungeon_v2_Floor.png" 384.0 128.0 256 256 0
+FLOOR "assets\floor\floor_dungeon_v2_Floor.png" 384.0 384.0 256 256 0
+FLOOR "assets\floor\floor_dungeon_v2_Floor.png" 128.0 384.0 256 256 0
+BOSS "assets\enemy\spawner\spawner_base.png" 104.0 128.0 64 64 0
